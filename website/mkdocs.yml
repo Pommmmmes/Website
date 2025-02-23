@@ -1,0 +1,5 @@
+site_name: Frederik Sinniger
+theme: bootstrap386
+nav:
+  - Home: index.md
+  - About: about.md
